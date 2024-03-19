@@ -1,0 +1,6 @@
+@CaseStudy_HostAddress = http://localhost:5241
+
+GET {{CaseStudy_HostAddress}}/Auth/
+Accept: application/json
+
+###
